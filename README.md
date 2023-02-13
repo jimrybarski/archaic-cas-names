@@ -1,10 +1,10 @@
-# Archaic Cas names
+# Archaic cas names
 
-Many CRISPR-associated genes have been renamed, sometimes more than once. Sequences databases often retain an archaic name, making searching for particular genes tricky. I have established this repo to keep track of the various alternatives for each Cas gene. In cases where there is no consensus in the community, this database will prefer the more consistent naming scheme.
+Many CRISPR-associated genes have been renamed, sometimes more than once. Sequences databases often retain an archaic name, making searching for particular genes tricky. This repo exists to keep track of the various alternatives for each cas gene. In cases where there is no consensus in the community, this database will prefer the more consistent naming scheme. 
 
 ### Contributing
 
-Please open an issue or submit a pull request (with references) if you feel there should be any additions or modifications to this list.
+Please open an issue or submit a pull request (with references) if you feel there should be any additions or modifications to this list. You can also just email me at [jim@rybarski.com](mailto:jim@rybarski.com).
 
 ### Names
 
@@ -53,20 +53,20 @@ Please open an issue or submit a pull request (with references) if you feel ther
 | \# | Reference | URL |
 | --- | --- | --- |
 | 1 | Makarova et al. *Evolution and classification of the CRISPR-Cas systems.* Nat. Rev. Microbiol. (2011) | [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3380444/) |
-| 2 | | [link](https://www.science.org/doi/10.1126/science.aam9321) |
-| 3 | | [link](https://www.nature.com/articles/s41467-018-08224-4) |
-| 4 | | [link](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wrna.1481) |
-| 5 | | [link](https://www.sciencedirect.com/science/article/pii/S109727652030424X) |
-| 6 | | [link](https://www.nature.com/articles/s41587-020-0561-9) |
-| 7 | | [link](https://www.embopress.org/doi/full/10.15252/embr.202255481) |
-| 8 | | [link](https://www.nature.com/articles/s41422-022-00771-2) | 
-| 9 | | [link](https://www.nature.com/articles/s41594-021-00632-3) |
-| 10 | | [link](https://www.nature.com/articles/nrmicro.2016.184) |
-| 11 | | [link](https://www.nature.com/articles/s41579-019-0204-7) | 
-| 12 | | [link](https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-018-0255-x) |
-| 13 | | [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mmi.12644) |
-| 14 | | [link](https://academic.oup.com/nar/article/43/18/8913/2414506) |
-| 15 | | [link](https://www.sciencedirect.com/science/article/pii/S0092867417313831)
-| 16 | | [link](https://pubmed.ncbi.nlm.nih.gov/24119398/)
-| 17 | | [link](https://www.sciencedirect.com/science/article/pii/S0092867422005815) |
-| 18 | | [link](https://pubmed.ncbi.nlm.nih.gov/28985291/) |
+| 2 | Gootenberg and Abudayyeh et al. *Nucleic acid detection withCRISPR-Cas13a/C2c2* Science (2017) | [link](https://www.science.org/doi/10.1126/science.aam9321) |
+| 3 | Strecker et al. *Engineering of CRISPR-Cas12b for human genome editing* Nat. Comm. (2019) | [link](https://www.nature.com/articles/s41467-018-08224-4) |
+| 4 | Swarts and Jinek. *Cas9 versus Cas12a/Cpf1: Structure–function comparisons and implications for genome editing* WIREs RNA (2018) | [link](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wrna.1481) |
+| 5 | Harrington and Ma et al. *A scoutRNA Is Required for Some Type V CRISPR-Cas Systems* Mol. Cell (2020) | [link](https://www.sciencedirect.com/science/article/pii/S109727652030424X) |
+| 6 | Anzalone and Koblan et al. *Genome editing with CRISPR–Cas nucleases, base editors, transposases and prime editors* Nat. Biotech. (2020) | [link](https://www.nature.com/articles/s41587-020-0561-9) |
+| 7 | Urbaitis, Gasiunas, and Young et al. *A new family of CRISPR-type V nucleases with C-rich PAM recognition* EMBO Reports (2022) | [link](https://www.embopress.org/doi/full/10.15252/embr.202255481) |
+| 8 | Sun et al. *The compact Casπ (Cas12l) ‘bracelet’ provides a unique structural platform for DNA manipulation.* Cell Res (2023) | [link](https://www.nature.com/articles/s41422-022-00771-2) | 
+| 9 | Pausch and Soczek et al. *DNA interference states of the hypercompact CRISPR–CasΦ effector*  Nat. Struct. Mol. Biol. (2021) | [link](https://www.nature.com/articles/s41594-021-00632-3) |
+| 10 | Shmakov et al. *Diversity and evolution of class 2 CRISPR–Cas systems* Nat. Rev. Microbiol. (2017) | [link](https://www.nature.com/articles/nrmicro.2016.184) |
+| 11 | Faure et al. *CRISPR–Cas in mobile genetic elements: counter-defence and beyond* Nat. Rev. Microbiol. (2019) | [link](https://www.nature.com/articles/s41579-019-0204-7) | 
+| 12 | Tang and Fu *Class 2 CRISPR/Cas: an expanding biotechnology toolbox for and beyond genome editing* Cell & Biosci. (2018) | [link](https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-018-0255-x) |
+| 13 | Carte et al. *The three major types of CRISPR-Cas systems function independently in CRISPR RNA biogenesis in Streptococcus thermophilus* Mol. Microbio. (2014) | [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mmi.12644) |
+| 14 | Dwarakanath et al. *Interference activity of a minimal Type I CRISPR–Cas system from Shewanella putrefaciens* NAR (2015) | [link](https://academic.oup.com/nar/article/43/18/8913/2414506) |
+| 15 | Hille et al. *The Biology of CRISPR-Cas: Backward and Forward* Cell (2018) | [link](https://www.sciencedirect.com/science/article/pii/S0092867417313831)
+| 16 | Heidrich and Vogel *Same same but different: new structural insight into CRISPR-Cas complexes* Mol. Cell (2013) | [link](https://pubmed.ncbi.nlm.nih.gov/24119398/)
+| 17 | Kato and Zhou et al. *Structure and engineering of the type III-E CRISPR-Cas7-11 effector complex* Cell (2022) | [link](https://www.sciencedirect.com/science/article/pii/S0092867422005815) |
+| 18 | Koonin and Makarova *Mobile Genetic Elements and Evolution of CRISPR-Cas Systems: All the Way There and Back* Genome Biol. Evol. (2017) | [link](https://pubmed.ncbi.nlm.nih.gov/28985291/) |
