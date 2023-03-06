@@ -54,4 +54,4 @@ Each name is given with the reference where it was first used.
 
 | \# | Reference | DOI |
 | --- | --- | --- |
-| 1 | Jansen et al. *Identification of genes that are associated with DNArepeats in prokaryotes.* Mol. Microbio. (2002) | [10.1046/j.1365-2958.2002.02839.x](https://doi.org/10.1046/j.1365-2958.2002.02839.x) |
+| 1 | Jansen et al. *Identification of genes that are associated with DNA repeats in prokaryotes.* Mol. Microbio. (2002) | [10.1046/j.1365-2958.2002.02839.x](https://doi.org/10.1046/j.1365-2958.2002.02839.x) |
